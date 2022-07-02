@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import { View, Text, Image, StyleSheet, ImageBackground, Button, TextInput, TextOutput, TouchableOpacity } from 'react-native'
 import Icon from "@expo/vector-icons/Entypo"
 import Slider from '@react-native-community/slider'
+import fetch from "react-native-fetch-api";
 import { Constants } from 'expo'
 
 
@@ -21,7 +22,7 @@ const Text_Generator = ({ navigation }) => {
                 marginTop: 40
             }}>
                 {/* back button */}
-                <View style={{ paddingLeft: 20, marginTop: 10, flexDirection: 'row' }}> 
+                <View style={{ paddingLeft: 20, marginTop: 10, flexDirection: 'row' }}>
                     <TouchableOpacity onPress={() => navigation.goBack()}>
                         <Icon
                             name="arrow-long-left"
@@ -59,7 +60,7 @@ const Text_Generator = ({ navigation }) => {
                 height: 10,
 
             }}>
-                
+
             </View>
             <View style={{
                 backgroundColor: "#A6A6A6",
@@ -96,7 +97,7 @@ const Text_Generator = ({ navigation }) => {
 
 
 
-                        {/* slider */}
+            {/* slider */}
             <View style={{ backgroundColor: "#FFF", paddingHorizontal: 20, paddingVertical: 20, alignItems: 'center' }}>
                 <Slider
                     style={{ width: 375, height: 50 }}
@@ -131,8 +132,9 @@ const Text_Generator = ({ navigation }) => {
                     placeholder="The current stock market rally is largely driven by fears of an economic downturn, with the potential for higher interest rates and an interest rate hike by the Fed.
                         If China, Greece, and the European Union follow the same policies as the United States, the result will be a recession which could last longer than expected.
                         To understand why this is a dangerous environment for the economy, we must first understand what exactly are the risks that the economy is facing due to globalization and trade."
-                        placeholderTextColor="#FFF"
-                    
+                    placeholderTextColor="#FFF"
+
+
                     // style
                     style={{
 
@@ -142,10 +144,28 @@ const Text_Generator = ({ navigation }) => {
                         marginLeft: 10,
                         marginTop: -340,
                     }}
+
+
                 />
             </View>
+
+
         </View>
-    )
+    )    
+        const query = async (data) => {
+            const response = await fetch(
+            "https://api-inference.huggingface.co/models/gpt2",
+                {
+                    headers: { Authorization: `Bearer ${API_TOKEN}` },
+                    method: "POST",
+                    body: JSON.stringify(data),
+                }
+            );
+            const result = await response.json();
+            return result;
+        };
+
+    
 }
 
 
