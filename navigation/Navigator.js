@@ -11,6 +11,7 @@ import Summarization from '../screens/Summarization'
 import Question_Answering from '../screens/Question_Answering'
 import Multiple_Choice from '../screens/Multiple_Choice'
 import Conversation from '../screens/Conversation'
+import Profile from '../screens/Profile'
 
 
 
@@ -30,6 +31,7 @@ const HomeStackNavigator = () => {
                 <Stack.Screen name="Question_Answering" component={Question_Answering}/>
                 <Stack.Screen name="Multiple_Choice" component={Multiple_Choice}/>
                 <Stack.Screen name="Conversation" component={Conversation}/>
+                <Stack.Screen name="ProfileScreen" component={Profile}/>
             </Stack.Navigator>
     )
 }

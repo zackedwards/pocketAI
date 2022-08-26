@@ -42,7 +42,7 @@ const Text_Generator = ({ navigation }) => {
                     </TouchableOpacity>
                     {/* profile button */}
                     <View style={{ marginLeft: 280 }}>
-                        <TouchableOpacity onPress={() => navigation.goBack()}>
+                        <TouchableOpacity onPress={() => navigation.navigate('ProfileScreen')}>
                             <Icon
                                 name="user"
                                 size={30}
@@ -128,10 +128,8 @@ const Text_Generator = ({ navigation }) => {
                     />
                 </View>
                 {/* output */}
-                <TextOutput
-                    placeholder="The current stock market rally is largely driven by fears of an economic downturn, with the potential for higher interest rates and an interest rate hike by the Fed.
-                        If China, Greece, and the European Union follow the same policies as the United States, the result will be a recession which could last longer than expected.
-                        To understand why this is a dangerous environment for the economy, we must first understand what exactly are the risks that the economy is facing due to globalization and trade."
+                <TextInput
+                    placeholder="Hmmm, let me think..."
                     placeholderTextColor="#FFF"
 
 
@@ -152,18 +150,18 @@ const Text_Generator = ({ navigation }) => {
 
         </View>
     )    
-        const query = async (data) => {
-            const response = await fetch(
-            "https://api-inference.huggingface.co/models/gpt2",
-                {
-                    headers: { Authorization: `Bearer ${API_TOKEN}` },
-                    method: "POST",
-                    body: JSON.stringify(data),
-                }
-            );
-            const result = await response.json();
-            return result;
-        };
+       // const query = async (data) => {
+         //   const response = await fetch(
+           // "https://api-inference.huggingface.co/models/gpt2",
+             //   {
+               //     headers: { Authorization: `Bearer ${API_TOKEN}` },
+                 //   method: "POST",
+                   // body: JSON.stringify(data),
+                //}
+            //);
+            //const result = await response.json();
+            //return result;
+        //};
 
     
 }

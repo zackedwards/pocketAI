@@ -35,7 +35,7 @@ const Multiple_Choice = ({navigation}) => {
                         />
                     </TouchableOpacity>
                     <View style={{marginLeft:280}}>
-                    <TouchableOpacity onPress={()=>navigation.goBack()}>
+                    <TouchableOpacity onPress={()=>navigation.navigate('ProfileScreen')}>
                         <Icon
                         name= "user"
                         size={30}
