@@ -2,7 +2,7 @@ import React from 'react'
 import {View, Text, Image, useRef, useEffect, useState, ImageBackground, Button, TouchableOpacity, ScrollView, Animated} from 'react-native'
 import Icon from "@expo/vector-icons/Entypo"
 import "../assets/images/profile.jpg"
-//import { LinearGradient } from 'expo-linear-gradient'
+
 
 const Profile = ({navigation}) => {
     return(
