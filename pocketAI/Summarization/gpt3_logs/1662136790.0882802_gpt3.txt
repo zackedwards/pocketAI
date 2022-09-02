@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+THE SERVICE OFFERINGS WILL CONTINUE TO BE PROVIDED, WILL FUNCTION AS DESCRIBED, CONSISTENTLY OR IN ANY PARTICULAR MANNER, OR WILL BE UNINTERRUPTED, ACCURATE, ERROR FREE OR FREE OF HARMFUL COMPONENTS. (c) Limitations of Liability. NEITHER WE NOR ANY OF OUR AFFILIATES OR LICENSORS WILL BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, OR DATA OR OTHER LOSSES (EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES) IN CONNECTION WITH THESE TERMS. IN ANY CASE, OUR AGGREGATE LIABILITY UNDER THESE TERMS SHALL BE LIMITED TO $100.  Fees and Payments a) Fees. You agree to pay all fees or charges to your account (Fees) in accordance with the prices and billing terms in effect at the time the Fee is incurred. Except as otherwise provided in a separate agreement between you and OpenAI, the current pricing for the Services is posted on the respective products subpage (for example, the current API pricing is set forth on our pricing page located at https://openai.com/api/pricing). We reserve the right to correct any errors or mistakes that we identify even if we have already issued an invoice or received payment. We reserve the right to change our prices at any time. We will post notice of price increases in the pricing or applicable terms to your account and/or to our website. Price increases will become effective no sooner than 14 days after they are posted, except for increases made for legal reasons, or increases made to Preview Services, which will be effective immediately. Any price changes will apply to the Fees charged to your account immediately after the effective date of the changes. If the change to any pricing or terms is not acceptable, your sole and exclusive remedy will be to cease using the Services and cancel this Agreement. By continuing to use the service after notice of the change, you accept all such changes. b) Taxes. Unless
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The terms state that the service offerings will continue to be provided, but does not guarantee that they will function in any particular manner or be uninterrupted. It also states that neither the company nor any of its affiliates or licensors will be liable for any damages resulting from the use of the services. The terms also state that all fees must be paid in accordance with the prices and billing terms in effect at the time the fee is incurred, and that the company reserves the right to change its prices at any time. Finally, the terms state that taxes may be applicable to the fees charged.

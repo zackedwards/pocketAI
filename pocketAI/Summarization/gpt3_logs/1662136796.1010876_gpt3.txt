@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+otherwise stated, Fees do not include federal, state, local, and foreign taxes, duties, levies, imposts, withholdings, and other similar assessments or any interest and penalties there on (Taxes). You are responsible for all Taxes associated with your purchase, excluding Taxes based on our net income. When required to do so, we will invoice you for such Taxes by adding the requisite amount to your Fees. You agree to timely pay such Taxes and promptly provide us with an original receipt showing the payment, together with such additional documentary evidence as we may from time to time reasonably require. You hereby confirm that OpenAI can rely on the name and address set forth in your account registration as being the place of supply for tax purposes. You agree to be responsible for keeping this information accurate and up-to-date in your Account Settings. c) Billing Information. You must provide your contact information, including bill-to address and email address, if applicable, as well as information for a valid payment method that you are authorized to use. It is your responsibility to maintain complete and accurate billing information. d) Payments. OpenAI will charge your credit card or digital payment method on a monthly basis, but may change the date on which the charge is posted at any time. All Fees are payable in U.S. dollars and are due upon invoice issuance. All payment obligations are non-cancelable and all amounts paid are nonrefundable except as provided in this Agreement. e) Payment Authorization. By providing us with credit card information or information for any supported digital payment method, you authorize OpenAI and its affiliates to store this information and to charge the credit card or digital payment method you have provided for the Fees when due until your account is terminated. In addition, you authorize us to use a third-party payment processor in processing payments. If you notify us to stop using a previously designated payment method
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The individual agrees to pay all taxes associated with their purchase, excluding taxes based on the company's net income. They also agree to provide accurate and up-to-date billing information, including a valid payment method. All payments are non-cancelable and nonrefundable, except as specified in the agreement. Finally, the individual authorizes the company to use a third-party payment processor and to charge the designated payment method on a monthly basis.

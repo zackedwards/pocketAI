@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+and fail to designate an alternative, your credit card expires or is declined, your payment information requires an update, or your payment cannot be completed for any other reason, we may provide you with notice via email and immediately suspend your use and access to the Services until we receive payment. f) Disputes and Late Payments. If you wish to dispute any Fees or Taxes, you must notify us in writing by emailing ar@openai.com within thirty (30) days of the date of the disputed invoice. Any undisputed amounts past due are subject to a finance charge of 1.5% of the unpaid balance per month (or the highest rate permitted by law, whichever is lower) from the date such payment was due until the date paid. You will be responsible for all reasonable expenses (including attorneys fees) incurred by us in collecting past due amounts. If any amount of your Fees are past due, we may suspend your access to the Services after we provide you written notice of late payment. Any amounts due under this Agreement shall not be withheld or offset by you against amounts due to you for any reason. g) Free Trial. If you start a free trial and cancel before it ends, you cannot reactivate the free trial. If you elect to upgrade to paid access to the Services at any point before the end of any applicable free trial period, you acknowledge that your free trial may expire and OpenAI shall have no obligation to reinstate, reimburse, or otherwise compensate you for any such expired free trial.  Export Control, Sanctions Compliance, and Related Matters You may not use or otherwise export or re-export any Services or any OpenAI Confidential Information received from OpenAI except as authorized by United States law and the laws of the jurisdiction in which the Services or the OpenAI Confidential Information was obtained. In particular, but without limitation, the Services and Confidential Information may not be used in or for the benefit of, exported, or re-exported (a) into any U.S.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The terms of this agreement state that if payment for the services rendered is not received, OpenAI has the right to suspend access to the services. If there is a dispute over the fees or taxes owed, the customer must notify OpenAI in writing within 30 days of the invoice in question. Any past due amounts are subject to a finance charge of 1.5% per month. If the customer starts a free trial and cancels before it ends, they are not eligible to reactivate the free trial. Export of any services or Confidential Information received from OpenAI is not allowed without authorization from United States law.

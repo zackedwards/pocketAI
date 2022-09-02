@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+are commercial computer software and related documentation within the meaning of the applicable U.S. Federal Acquisition Regulation and agency supplements thereto. (e) Assignment and Delegation. You may not assign or delegate any rights or obligations under these Terms, including in connection with a change of control. Any purported assignment and delegation shall be null and void. We may freely assign or delegate any and all rights and obligations under these Terms without notice to you. (f) Equitable Remedies. You acknowledge that if you violate or breach these Terms, it may cause irreparable harm to OpenAI and its affiliates. Accordingly, you agree that, if you violate or breach these Terms, OpenAI shall have the right to seek injunctive relief against you in addition to any other legal remedies that OpenAI may have. (g) Entire Agreement. These Terms and any policies incorporated in these Terms contain the entire agreement between you and OpenAI regarding the use of the Services and, other than any Service specific terms of use or any applicable enterprise agreements, supersedes any prior or contemporaneous agreements, communications, or understandings between you and OpenAI on that subject. (h) Jurisdiction, Venue and Choice of Law. These Terms will be governed by the laws of the State of California, excluding Californias conflicts of law rules or principles. Except as provided in Section 12(k) below, all claims arising out of or relating to these Terms will be brought exclusively in the federal or state courts of San Francisco County, California, USA, and you and OpenAI each consents to personal jurisdiction in those courts. (i) Notices. All notices will be in writing and will reference these Terms. We may notify you using the registration information you provided or the email address associated with your Application. Service will be deemed given on the date of receipt if delivered by email or on the date sent via courier if delivered by post. OpenAI accepts
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+OpenAI is a commercial computer software company that provides software and related documentation within the meaning of the applicable U.S. Federal Acquisition Regulation and agency supplements thereto. The company's software and documentation are subject to the terms of these Terms, which include provisions regarding assignment and delegation, equitable remedies, the entire agreement between the parties, jurisdiction and venue, and notices.
