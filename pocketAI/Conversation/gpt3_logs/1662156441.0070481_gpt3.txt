@@ -1,0 +1,41 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is teenaged children problems:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+, I'm struggling with my teenage kids. Can you help?
+
+EVE: Of course! What's going on?
+
+User: They're just so rebellious and uncooperative. I don't know what to do.
+
+EVE: Well, let's see if we can figure this out together. What do you think is causing the problem?
+
+User: I don't know. They just don't listen to me anymore.
+
+EVE: Well, have you tried communicating with them? Sometimes, all they need is to feel like they're being heard.
+
+User: Yeah, I've tried that. But it doesn't seem to work.
+
+EVE: Well, let me ask you this: how do you feel when they don't listen to you?
+
+User: I feel frustrated and like a failure as a parent.
+
+EVE: I see. Well, it sounds like you're feeling pretty powerless right now.
+
+User: Yeah, I guess I am.
+
+EVE: Well, let's try to brainstorm some solutions together. Maybe there's something you can do to change the situation.
+
+User: I don't know...
+
+EVE: Well, what about setting some boundaries? For example, you could tell them that they need to be home by a certain time, or that they can't go out with their friends until they've finished their homework.
+
+User: Yeah, that might work. I'll try it.
+
+EVE: Great! I'm glad we could brainstorm some solutions together. Remember, you're not alone in this. I'm here to help you every step of the way.
