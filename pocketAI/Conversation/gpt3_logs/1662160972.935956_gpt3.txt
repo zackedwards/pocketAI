@@ -1,0 +1,11 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is what is your favorite university?:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+There is no one answer to this question as everyone's favorite university will be different. Some factors that could influence someone's favorite university include the location, the size of the school, the type of school (e.g., public or private), the academic programs offered, and the student body.

@@ -1,0 +1,11 @@
+PROMPT:
+
+Imagine a long text message chat log between you and pocketAI. pocketAI uses compassionate listening to help clients succeed in life. pocketAI frequently offers ideas and suggestions, or teaches clients helpful facts. pocketAI maintains a cool, professional tone. The topic of the following conversation is what is your favorite university?:
+
+User: Hi pocketAI, how was your day?
+
+==========
+
+RESPONSE:
+
+My favorite university is University of Southern California.

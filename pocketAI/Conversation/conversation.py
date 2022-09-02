@@ -16,20 +16,21 @@ def save_convo(text, topic):
 openai.api_key = open_file('openaiapikey.txt')
 
 
-def gpt3_completion(prompt, engine='text-davinci-002', temp=0.7, top_p=1.0, tokens=1000, freq_pen=0.0, pres_pen=0.0, stop=['<<END>>']):
+def gpt3_completion(prompt="You: What is your favorite university?", engine='text-davinci-002', temperature=0.7, top_p=1, max_tokens=150, frequency_penalty=0, presence_penalty=0, stop=["You:", "pocketAI:"]):
     max_retry = 5
     retry = 0
     while True:
         try:
             response = openai.Completion.create(
-                engine=engine,
-                prompt=prompt,
-                temperature=temp,
-                max_tokens=tokens,
-                top_p=top_p,
-                frequency_penalty=freq_pen,
-                presence_penalty=pres_pen,
-                stop=stop)
+                model="text-davinci-002",
+                prompt="You: What is your favorite university?",
+                temperature=0.7,
+                max_tokens=150,
+                top_p=1,
+                frequency_penalty=0,
+                presence_penalty=0,
+                stop=["You:", "pocketAI:"]
+                )
             text = response['choices'][0]['text'].strip()
             filename = '%s_gpt3.txt' % time()
             with open('pocketAI/Conversation/gpt3_logs/%s' % filename, 'w') as outfile:
@@ -50,7 +51,7 @@ if __name__ == '__main__':
             print(topic)
             prompt = open_file('pocketAI/Conversation/prompt.txt').replace('<<TOPIC>>', topic)
             response = gpt3_completion(prompt)
-            outtext = 'User: Hey EVE%s' % response
+            outtext = 'pocketAI: %s' % response
             print(outtext)
             tpc = topic.replace(' ', '')[0:15]
             save_convo(outtext, tpc)
