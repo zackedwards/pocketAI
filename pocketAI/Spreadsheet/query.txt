@@ -1,0 +1,3 @@
+A four-column spreadsheet of the highest grossing movies all time:
+
+Rank | Title | Lifetime Gross | Year Debuted

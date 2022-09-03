@@ -1,0 +1,13 @@
+Please enter a prompt or query for pocketAI.
+
+Generating ideas for (Brainstorm some ideas combining VR and fitness):
+
+==========
+
+RESPONSE:
+
+-A fitness VR game that gets players up and moving
+-A VR fitness program that lets users work out at home with a virtual personal trainer
+-A VR fitness app that tracks your progress and motivation over time
+-A VR gym that offers immersive workout experiences
+-A social VR platform for connecting with friends during workouts

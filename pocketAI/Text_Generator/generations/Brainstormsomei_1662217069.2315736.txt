@@ -1,0 +1,4 @@
+-A fitness program that uses VR to immerse users in fun, interactive environments that motivate them to stay active
+-A VR game that simulates a popular sport or activity, such as running, dancing, or playing tennis, to get people moving
+-A VR experience that takes users on a virtual tour of beautiful locations around the world, encouraging them to explore and be active
+-A VR app that provides personalized workout routines and tracks progress over time to help users reach their fitness goals

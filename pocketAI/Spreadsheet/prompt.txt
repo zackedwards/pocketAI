@@ -1,0 +1,4 @@
+Create spreadsheets of various kinds of data. It's a long prompt but very versatile. 
+Output can be copy+pasted into a text file and saved as a .csv with pipe separators.
+
+Query:(<<QUERY>>)

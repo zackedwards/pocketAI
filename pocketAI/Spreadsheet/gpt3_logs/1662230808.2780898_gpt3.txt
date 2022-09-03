@@ -1,0 +1,19 @@
+Create spreadsheets of various kinds of data. It's a long prompt but very versatile. 
+Output can be copy+pasted into a text file and saved as a .csv with pipe separators.
+
+Query:(A four-column spreadsheet of the highest grossing movies all time:)
+
+==========
+
+Data:
+
+1. Avatar | $2.78 billion | 2009
+2. Titanic | $2.19 billion | 1997
+3. Star Wars: The Force Awakens | $2.06 billion | 2015
+4. Jurassic World | $1.67 billion | 2015
+5. The Avengers | $1.51 billion | 2012
+6. Furious 7 | $1.51 billion | 2015
+7. Avengers: Age of Ultron | $1.41 billion | 2015
+8. Black Panther | $1.34 billion | 2018
+9. Harry Potter and the Deathly Hallows – Part 2 | $1.34 billion | 2011
+10. The Lion King | $1.27 billion | 1994
