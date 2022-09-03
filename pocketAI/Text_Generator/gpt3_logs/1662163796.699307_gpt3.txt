@@ -1,0 +1,17 @@
+Please enter a prompt or query for pocketAI.
+
+Generating ideas for (Brainstorm some ideas combining VR and fitness):
+
+==========
+
+RESPONSE:
+
+1. A VR fitness game that simulates a real-life workout routine.
+
+2. A VR fitness app that allows users to compete against each other in virtual reality.
+
+3. A VR fitness program that helps people lose weight by burning calories in a virtual world.
+
+4. A VR fitness system that uses sensors to track users' movements and give feedback on their form.
+
+5. A VR fitness game that allows players to explore different environments while exercising.

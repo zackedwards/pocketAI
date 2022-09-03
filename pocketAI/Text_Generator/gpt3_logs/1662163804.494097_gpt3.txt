@@ -1,0 +1,12 @@
+Please enter a prompt or query for pocketAI.
+
+Generating ideas for (Brainstorm some ideas combining VR and fitness):
+
+==========
+
+RESPONSE:
+
+-A VR game that simulates a popular sport, such as football or basketball
+-A VR game that simulates a workout routine, such as aerobics or weightlifting
+-A VR game that challenges the player to complete an obstacle course in a certain amount of time
+-A VR game that allows the player to compete against others in a virtual environment

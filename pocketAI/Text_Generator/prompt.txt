@@ -1,0 +1,3 @@
+Please enter a prompt or query for pocketAI.
+
+Generating ideas for (<<QUERY>>):
