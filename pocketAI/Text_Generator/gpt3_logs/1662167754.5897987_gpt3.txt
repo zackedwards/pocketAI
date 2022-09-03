@@ -1,0 +1,12 @@
+Please enter a prompt or query for pocketAI.
+
+Generating ideas for (Brainstorm some ideas combining VR and fitness):
+
+==========
+
+RESPONSE:
+
+-A VR game that simulates a popular workout routine (e.g. Zumba, yoga, Pilates, etc.)
+-A VR game that is set in an outdoor environment like a park or forest where players have to collect items while walking or running
+-A VR dance game where players have to follow along with the choreography
+-A VR sports game where players can compete against each other in popular sports like basketball, football, soccer, etc.

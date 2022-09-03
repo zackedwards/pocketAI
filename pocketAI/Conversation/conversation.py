@@ -1,7 +1,14 @@
 import os
 import openai
 from time import time,sleep
+import speech_recognition
+import pyttsx3 as tts
+import sys
 
+recognizer = speech_recognition.Recognizer()
+
+speaker = tts.init()
+speaker.setProperty('rate', 145)
 
 def open_file(filepath):
     with open(filepath, 'r', encoding='utf-8') as infile:
