@@ -1,0 +1,18 @@
+Create spreadsheets of various kinds of data. It's a long prompt but very versatile. 
+Output can be copy+pasted into a text file and saved as a .csv with pipe separators.
+
+Query:(Rank | Player Name | Position | WAR | Year )
+
+==========
+
+Data:
+
+1. Babe Ruth | OF | 11.6 | 1923
+
+2. Barry Bonds | OF | 11.5 | 2001
+
+3. Willie Mays | OF | 11.4 | 1954
+
+4. Mickey Mantle | OF | 11.2 | 1956
+
+5. Ty Cobb | OF | 11.1 | 1909

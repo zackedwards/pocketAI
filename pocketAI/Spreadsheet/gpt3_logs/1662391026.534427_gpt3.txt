@@ -1,0 +1,14 @@
+Create spreadsheets of various kinds of data. It's a long prompt but very versatile. 
+Output can be copy+pasted into a text file and saved as a .csv with pipe separators.
+
+Query:(A two-column spreadsheet of the most sold prom dresses in 2020 by company:)
+
+==========
+
+Data:
+
+1. Jovani | 10,000
+2. Mori Lee | 8,000
+3. Sherri Hill | 5,000
+4. La Femme | 4,000
+5. Mac Duggal | 3,000

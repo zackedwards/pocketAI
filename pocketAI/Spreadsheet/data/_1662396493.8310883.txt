@@ -1,0 +1,10 @@
+1 | Babe Ruth | LF | 14.1 | 1923
+2 | Barry Bonds | LF | 13.8 | 2001
+3 | Willie Mays | CF | 12.9 | 1954
+4 | Mickey Mantle | CF | 12.8 | 1956
+5 | Ty Cobb | RF | 12.4 | 1907
+6 | Ken Griffey Jr. | CF | 10.6 | 1997
+7 | Hank Aaron | RF | 10.4 | 1957
+8 | Tris Speaker | CF | 10.3 | 1912
+9 | Stan Musial | LF | 10.2 | 1948
+10 | Roberto Clemente | RF | 10.1 | 1967

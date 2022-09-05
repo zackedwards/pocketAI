@@ -1,0 +1,9 @@
+1. Babe Ruth | LF | 12.9 | 1923
+2. Barry Bonds | LF | 12.5 | 2001
+3. Willie Mays | CF | 11.9 | 1954
+4. Mike Trout | CF | 10.5 | 2018
+5. Hank Aaron | RF | 10.4 | 1957
+6. Alex Rodriguez | 3B | 10.2 | 2007
+7. Rogers Hornsby | 2B | 9.7 | 1924
+8. Ernie Banks | SS | 9.5 | 1958
+9. Johnny Bench | C | 8.9 | 1972

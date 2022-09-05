@@ -1,0 +1,19 @@
+Create spreadsheets of various kinds of data. It's a long prompt but very versatile. 
+Output can be copy+pasted into a text file and saved as a .csv with pipe separators.
+
+Query:(A five-column spreadsheet of baseball players with the highest WAR rating in a single season at each position:)
+
+==========
+
+Data:
+
+1 | Babe Ruth | LF | 14.1 | 1923
+2 | Barry Bonds | LF | 13.8 | 2001
+3 | Willie Mays | CF | 13.6 | 1954
+4 | Mickey Mantle | CF | 13.4 | 1956
+5 | Ty Cobb | RF | 12.9 | 1907
+6 | Ken Griffey Jr. | CF | 12.5 | 1997
+7 | Hank Aaron | RF | 12.4 | 1963
+8 | Tris Speaker | CF | 12.3 | 1912
+9 | Stan Musial | LF | 12.2 | 1948
+10 | Rogers Hornsby | 2B | 11.9 | 1924

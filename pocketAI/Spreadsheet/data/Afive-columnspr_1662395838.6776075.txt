@@ -1,0 +1,19 @@
+1. Babe Ruth | OF | 11.6 | 1923
+
+2. Barry Bonds | OF | 11.5 | 2001
+
+3. Willie Mays | OF | 11.4 | 1954
+
+4. Mickey Mantle | OF | 11.2 | 1956
+
+5. Ty Cobb | OF | 11.1 | 1907
+
+6. Rogers Hornsby | 2B | 10.4 | 1924
+
+7. Hank Aaron | OF | 10.4 | 1957
+
+8. Alex Rodriguez | SS | 10.3 | 2007
+
+9. Tris Speaker | OF | 10.2 | 1912
+
+10. Honus Wagner | SS | 10.1 | 1908

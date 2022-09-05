@@ -27,7 +27,7 @@ user_name = "Austin"
 while True:
     with mic as source:
         print("\nlistening... speak clearly into mic.")
-        r.adjust_for_ambient_noise(source, duration=0.7)
+        r.adjust_for_ambient_noise(source, duration=0.6)
         audio = r.listen(source)
     print("no longer listening.\n")
 

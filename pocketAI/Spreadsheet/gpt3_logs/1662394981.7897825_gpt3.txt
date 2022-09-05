@@ -1,0 +1,19 @@
+Create spreadsheets of various kinds of data. It's a long prompt but very versatile. 
+Output can be copy+pasted into a text file and saved as a .csv with pipe separators.
+
+Query:(A three-column spreadsheet of all time baseball players with the highest WAR rating over there careers:)
+
+==========
+
+Data:
+
+1 | Babe Ruth | 168.4 | 1948
+2 | Walter Johnson | 159.1 | 1927
+3 | Cy Young | 155.8 | 1911
+4 | Ty Cobb | 149.1 | 1928
+5 | Rogers Hornsby | 143.6 | 1937
+6 | Tris Speaker | 139.4 | 1928
+7 | Honus Wagner | 137.3 | 1917
+8 | Eddie Collins | 136.8 | 1930
+9 | Cap Anson | 135.8 | 1897
+10 | Nap Lajoie | 135.6 | 1916

@@ -16,16 +16,16 @@ def save_convo(text, query):
 openai.api_key = open_file('openaiapikey.txt')
 
 
-def gpt3_completion(prompt="A four-column spreadsheet of the highest grossing movies all time:\n\nRank | Title | Lifetime Gross | Year Debuted\n", engine='text-davinci-002', temperature=0, top_p=1, max_tokens=1225, frequency_penalty=0, presence_penalty=0):
+def gpt3_completion(prompt= open_file('pocketAI/Spreadsheet/query.txt'), engine='text-davinci-002', temperature=0, top_p=1, max_tokens=4000, frequency_penalty=0, presence_penalty=0):
     max_retry = 5
     retry = 0
     while True:
         try:
             response = openai.Completion.create(
                 model="text-davinci-002",
-                prompt= "A four-column spreadsheet of the highest grossing movies all time:\n\nRank | Title | Lifetime Gross | Year Debuted\n",
+                prompt= open_file('pocketAI/Spreadsheet/query.txt'),
                 temperature=0,
-                max_tokens=1225,
+                max_tokens=4000,
                 top_p=1,
                 frequency_penalty=0,
                 presence_penalty=0,
